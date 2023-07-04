@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967113096989",
+    "project_id": "zetaton-task",
+    "storage_bucket": "zetaton-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967113096989:android:d23c78a72b5f4ddd696bf4",
+        "android_client_info": {
+          "package_name": "com.example.zetaton_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967113096989-bkd42d7fs67uskqrsi65ljvqsr7pkal3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwiFiC2kRoxd3XMvxrzgyJhl9Dup0yWh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967113096989-bkd42d7fs67uskqrsi65ljvqsr7pkal3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
